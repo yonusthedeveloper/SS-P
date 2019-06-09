@@ -27,7 +27,15 @@ iframe {
 
 
 
-
+/* Style the search box inside the navigation bar */
+#nav input[type=text] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 12px;
+  margin-right: 100px;
+  font-size: 17px;
+}
 
 
 
