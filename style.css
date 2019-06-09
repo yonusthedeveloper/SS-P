@@ -12,12 +12,12 @@
 
 
 iframe {
-    border: 1px solid black;
-    width: 100%;
+  border: 1px solid black;
+  width: 100%;
 }
 
 .output {
-    background: #eee;
+  background: #eee;
 }
 
 
@@ -56,7 +56,7 @@ ul {
 
   overflow: hidden;
 
-  background-color: #5a3d83;
+  background-color: #4b4a4d;
 
   font-family: 'Carter One', cursive;
 
