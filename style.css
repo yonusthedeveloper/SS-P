@@ -1,5 +1,5 @@
 /*Segoe UI font */
-* { font-family: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 1; line-height: 26.4px; }
+* { font-family: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; }
 
 
 
@@ -29,7 +29,7 @@
 
 .topnav a.active {
   border-bottom: 3px solid #1a9aea;
-  background-color: black;
+  background-color: #1a9aea;
 }
 
 .topnav a {
