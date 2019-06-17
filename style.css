@@ -4,7 +4,7 @@
 
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: #5e5e5e;
+  background-color: black;
   overflow: hidden;
 }
 
@@ -17,7 +17,8 @@
   padding: 14px 16px;
   text-decoration: none;
   font-size: 14px;
-  border-bottom: 3px solid #aaaaaa;
+  border-right: 2px solid #aaaaaa;
+
 }
 
 .topnav a:hover {
@@ -25,13 +26,10 @@
 }
 
 .topnav a.active {
-  border-bottom: 3px solid #1a9aea;
   background-color: #1a9aea;
 }
 
-.topnav a {
-  border-right: 2px solid #aaaaaa;
-}
+
 
 
 /* Style the search box inside the navigation bar */
@@ -53,4 +51,71 @@ body {
 }
 #topnav {
   margin: 1%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.bottomnav {
+  background-color: #aaaaaa;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.bottomnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 8px 16px 20px 16px;
+  text-decoration: none;
+  font-size: 14px;
+  
+  height: 12px;
+}
+
+.bottomnav a:hover {
+  border-bottom: 3px solid #1a9aea;
+}
+
+.bottomnav a.active {
+  border-bottom: 3px solid #1a9aea;
+}
+
+
+.bookiconcolor {
+  color: #1bbcb6;
+}
+
+.homeiconcolor {
+  color: #17db35;
+}
+
+.dqiconcolor {
+  color: #e2da24;
+}
+
+.sriconcolor {
+  color: #e61414;
+}
+
+.eficoncolor {
+  color: #179cc4;
+}
+
+.shiconcolor {
+  color: #249609;
+}
+
+.m360iconcolor {
+  color: #4a8be3;
 }
